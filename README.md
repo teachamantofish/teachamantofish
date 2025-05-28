@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teachamantofish&theme=great-gatsby)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=teachamantofish&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=teachamantofish&show_icons=true&theme=great-gatsby)
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teachamantofish&theme=github-compact)](https://github.com/teachamantofish)
 
