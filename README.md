@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=teachamantofish&show_icons=true&theme=default)
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teachamantofish)](https://github.com/teachamantofish/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teachamantofish&theme=github-compact)](https://github.com/teachamantofish)
 
 
